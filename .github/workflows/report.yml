@@ -16,5 +16,5 @@ jobs:
         netid: ${{secrets.NETID}}
         password: ${{secrets.PASSWORD}}
         ocr_token: ${{secrets.OCR_TOKEN}}
-        tg_bot_token: TG_BOT_TOKEN
+        tg_bot_token: SCT130353T4WnBarvDT3TR1RX0IVVouHZm
         tg_chatid: ${{secrets.TG_CHATID}}
